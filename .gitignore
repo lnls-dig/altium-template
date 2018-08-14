@@ -1,0 +1,7 @@
+*.Zip
+*.LOG
+*.SchDocPreview
+*.PcbDocPreview
+*.html
+*.drc
+circuit_board/Project Outputs for altium-template/*
